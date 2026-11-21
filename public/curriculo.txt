@@ -1,0 +1,19 @@
+ICARO LUCAS SILVA DE OLIVEIRA
+Estudante de Engenharia de Computacao | Desenvolvedor Front-end
+
+FORMAÇÃO
+- Engenharia de Computação — Universidade Ceuma — Em andamento
+- Técnico em Redes de Computadores — SENAI
+
+TECNOLOGIAS
+HTML, CSS, JavaScript, React, Next.js, Git, GitHub, VS Code,
+MySQL, Modelagem de dados, SQL e MySQL Workbench
+
+EXPERIÊNCIAS ACADÊMICAS
+- Secretário da diretoria da Liga Acadêmica de Inteligência Artificial (LIA)
+- Participante da FIRST LEGO League em 2021, 2022 e 2023
+- Campeão em Design de Robô na FLL 2022
+
+CONTATO
+E-mail: icarolucas28@gmail.com
+GitHub: https://github.com/Icarolucas28
